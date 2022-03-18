@@ -1,1 +1,4 @@
 # atcoder
+
+## License
+MIT License.
